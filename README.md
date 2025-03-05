@@ -6,7 +6,7 @@ Welcome to the **Discover-Cookbook Translation Project** repository! This projec
 
 The NumFOCUS DISCOVER Handbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is a guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
 
-If you are looking to read the book, please visit [the live version of the book](https://discover-cookbook.numfocus.org/). This repository contains the code that powers that website and is intended for maintainers and contributors.
+If you are looking to read the book, please visit [the live version of the book](https://discover-cookbook.numfocus.org/). This repository contains the code that translates and powers the website and is intended for maintainers and contributors.
 
 ## Table of Contents
 
