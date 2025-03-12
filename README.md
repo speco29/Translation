@@ -14,7 +14,7 @@ If you are looking to read the book, please visit [the live version of the book]
 2. [Getting Started](#getting-started)
 3. [Translation Guidelines](#translation-guidelines)
 4. [Contributing](#contributing)
-5. [License](#license)
+
 
 
 ## Introduction
