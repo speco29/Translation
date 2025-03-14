@@ -50,5 +50,5 @@ cd discover-cookbook-translation
 7.Review and proofread translations before submitting them.
 
 ## Contributing
-We welcome contributions from the community! Whether you're fluent in a language or just starting to learn, you can help us make the Discover-Cookbook more accessible. Please 
+We welcome contributions from the community! Whether you're fluent in a language or just starting to learn, you can help us make the Discover-Cookbook more accessible. 
 
