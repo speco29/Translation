@@ -1,12 +1,12 @@
 # Discover-Cookbook Translation Project
 
-Welcome to the **Discover-Cookbook Translation Project** repository! This project aims to translate the Discover-Cookbook content to make it accessible to a wider audience.
+Welcome to the **Discover-Cookbook Translation Project** repository! This project aims to translate the Discover-Cookbook content to make it accessible to a wider audience and to make every event inclusive.
 
 ## Project Overview
 
 The NumFOCUS DISCOVER Handbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is a guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
 
-If you are looking to read the book, please visit [the live version of the book](https://discover-cookbook.numfocus.org/). This repository contains the code that powers that website and is intended for maintainers and contributors.
+If you are looking to read the book, please visit [the live version of the book](https://discover-cookbook.numfocus.org/). This repository contains the code that translates and powers the website and is intended for maintainers and contributors.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ If you are looking to read the book, please visit [the live version of the book]
 2. [Getting Started](#getting-started)
 3. [Translation Guidelines](#translation-guidelines)
 4. [Contributing](#contributing)
-5. [License](#license)
+
 
 
 ## Introduction
@@ -50,5 +50,5 @@ cd discover-cookbook-translation
 7.Review and proofread translations before submitting them.
 
 ## Contributing
-We welcome contributions from the community! Whether you're fluent in a language or just starting to learn, you can help us make the Discover-Cookbook more accessible. Please read our [CONTRIBUTING.md](CON
+We welcome contributions from the community! Whether you're fluent in a language or just starting to learn, you can help us make the Discover-Cookbook more accessible. 
 
