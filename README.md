@@ -1,6 +1,6 @@
 # Discover-Cookbook Translation Project
 
-Welcome to the **Discover-Cookbook Translation Project** repository! This project aims to translate the Discover-Cookbook content to make it accessible to a wider audience and to make every event inclusive. 
+Welcome to the **Discover-Cookbook Translation Project** repository! This project aims to translate the Discover-Cookbook content to make it accessible to a wider audience and to make every event inclusive.   
 
 ## Project Overview
 
