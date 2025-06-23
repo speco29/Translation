@@ -33,7 +33,7 @@ To get started with the Discover-Cookbook Translation Project, follow these step
 2. **Navigate to the Project Directory:**
 
 ```bash
-cd discover-cookbook-translation
+cd Translation
 ```
 ## Translating Guidelines
 
