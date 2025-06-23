@@ -7,4 +7,4 @@ This repository implements a language toggle system for the DISCOVER Cookbook pr
 - **Multi-language support**: Allows users to toggle between **Hindi, English, and Arabic**. 
 - **User-friendly interface**: Intuitive switch mechanism for effortless language selection.
 - **Efficient translation handling**: Dynamically updates content based on the selected language.
-- **Accessibility-focused design**: Ensures usability for a global audience.
+- **Accessibility-focused design**: Ensures usability for a global audience. 
