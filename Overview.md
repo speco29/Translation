@@ -1,4 +1,4 @@
-# DISCOVER Cookbook Language Toggle System
+# DISCOVER-Cookbook Language Toggle System
 
 ## Overview
 This repository implements a language toggle system for the DISCOVER Cookbook project, enabling seamless translation of the web page into **Hindi, English, and Arabic**. The system empowers users to switch between these languages dynamically, enhancing accessibility and inclusivity for a diverse audience.
