@@ -1,7 +1,7 @@
 # Discover-Cookbook Translation Project
    
 Welcome to the **Discover-Cookbook Translation Project** repository! This project aims to translate the Discover-Cookbook content to make it accessible to a wider audience and to make every event inclusive.       
-     
+      
 ## Project Overview  
    
 The NumFOCUS DISCOVER Cookbook (Diverse & Inclusive Spaces and Conferences: Overall Vision and Essential Resources) is a guide for organizing more diverse and inclusive events and conferences, produced by the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Program, with support from the Moore Foundation.
